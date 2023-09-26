@@ -30,7 +30,7 @@
     }
   },
   "dependencies": {
-    "@babel/runtime": "^7.10.5",
+    "@babel/runtime": "^7.22.15",
     "@browser-bunyan/server-stream": "^1.5.3",
     "@jitsi/sdp-interop": "0.1.14",
     "autoprefixer": "~9.3.1",
