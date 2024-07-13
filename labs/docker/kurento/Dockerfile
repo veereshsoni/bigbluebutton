@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 
 # In order to build kurento dev, use:
 # docker build --build-arg APT_KEY="http://keyserver.ubuntu.com/pks/lookup?op=get&options=mr&search=0xFC8A16625AFA7A83" --build-arg APT_REPO="deb [arch=amd64] http://ubuntu.openvidu.io/dev xenial kms6" --build-arg CACHE_BUST="$(date +%s)" -t mconf/kurento:upstream-dev .
