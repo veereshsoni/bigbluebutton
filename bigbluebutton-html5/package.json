@@ -48,7 +48,7 @@
     "langmap": "0.0.16",
     "lodash": "^4.17.19",
     "makeup-screenreader-trap": "0.0.5",
-    "meteor-node-stubs": "^0.4.1",
+    "meteor-node-stubs": "^1.2.8",
     "node-sass": "^4.13.1",
     "postcss-nested": "4.1.0",
     "probe-image-size": "^4.1.1",
